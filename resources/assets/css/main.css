@@ -1,0 +1,28 @@
+html, body{
+    position: relative;
+    height: 100%;
+}
+body{
+    padding-top: 50px;
+}
+.cover{
+    height: 100%;
+}
+.vcenter{
+    height: 300px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.section{
+    padding: 50px 0px 0px 0px;
+}
+.section:last-of-type{
+    padding-bottom: 90px;
+}
+.section-heading{
+    padding-bottom: 20px;
+}
+.panel{
+    margin-top: 20px;
+}
